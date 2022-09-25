@@ -7,7 +7,7 @@ export default function App() {
       <div className="container>">
         <header className="App-header">
           <a href="#" className="btn btn-primary">
-            Hello
+            Hell
           </a>
         </header>
         <main>
