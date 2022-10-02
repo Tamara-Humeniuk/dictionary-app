@@ -13,6 +13,7 @@ export default function App() {
           <a
             href="https://github.com/Tamara-Humeniuk/dictionary-app"
             target="_blank"
+            rel="noreferrer noopener"
           >
             Coded by Tamara Humeniuk
           </a>
